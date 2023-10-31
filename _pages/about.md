@@ -8,17 +8,17 @@ author_profile: true
 #   - /about.html
 ---
 
-I am a PhD student in Computer Science at University of Rochester. Before I joined UR in 2022, I was a music composer with focuses on algorithmic composition and interactive sound arts. My previous research was in MIR (Music Information Retrieval) at [AIR Lab] (https://labsites.rochester.edu/air/). I recently joined the Systems with interests in data locality and programming languages. 
+I am a PhD student in Computer Science at University of Rochester. Before I joined UR in 2022, I was a music composer with focuses on algorithmic composition and interactive sound arts. My previous research was in MIR (Music Information Retrieval) at [AIR Lab](https://labsites.rochester.edu/air/). I recently joined the Systems with interests in data locality and programming languages. 
 
 Please appreciate a picture of my lovely Eugene.
 
 
 Sound-Playing Stuff
 ======
-[AI Jazz Co-improviser] (https://jazz-improv-pilot.netlify.app/)
+[AI Jazz Co-improviser](https://jazz-improv-pilot.netlify.app/)
 Jamming with AI with your instrument of choice. Needs mic access on the web browser.
 
-[Mind Your Step] (https://editor.p5js.org/yiywang/full/aNZiMTAhj)
+[Mind Your Step](https://editor.p5js.org/yiywang/full/aNZiMTAhj)
 Group improvisation / sound installation with handphones (most interesting on smartphone and with a group of people playing together).
 
 <!-- 
