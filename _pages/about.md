@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Yiyang Wang"
-excerpt: "About me"
+title: "About"
+# excerpt: "About me"
 author_profile: true
 # redirect_from: 
 #   - /about/
@@ -10,8 +10,8 @@ author_profile: true
 
 I am a PhD student in Computer Science at University of Rochester. Before I joined UR in 2022, I was a music composer with focuses on algorithmic composition and interactive sound arts. My previous research was in MIR (Music Information Retrieval) at [AIR Lab](https://labsites.rochester.edu/air/). I recently joined the Systems with interests in data locality and programming languages. 
 
-Please appreciate a picture of my lovely Eugene.
-
+Please appreciate a picture of my lovely Eugene:)
+![Eugene](/images/Eugene.jpeg)    
 
 Sound-Playing Stuff
 ======
