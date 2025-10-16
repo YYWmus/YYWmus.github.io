@@ -36,7 +36,7 @@ Group improvisation / sound installation with handphones (most interesting on sm
 
 
 
-And please appreciate a picture of Eugene :) (named after a Belgian virtuoso violinist, perhaps)
+And please appreciate a picture of Eugene (named after a Belgian virtuoso violinist, perhaps) \\
 ![Eugene](/images/Eugene.jpeg)    
 
 
