@@ -1,8 +1,9 @@
 ---
 permalink: /
-title: "About"
+title: "Yiyang Wang"
 # excerpt: "About me"
 author_profile: true
+description: "PhD student in Computer Science at the University of Rochester"
 # redirect_from: 
 #   - /about/
 #   - /about.html
