@@ -14,11 +14,14 @@ I am a PhD student in Computer Science (Systems group) at University of Rocheste
 Before I come to UR, I was a music composer working on algorithmic composition and interactive sound arts. Some of my work can be found via links on this page. Prior to joining the Systems group, I also did research in MIR (Music Information Retrieval) at [AIR Lab](https://labsites.rochester.edu/air/). 
 
 
+
 Publications
 ============
-**Yiyang Wang**, Chen Ding, Leo Sciortino, and Linlin Chen. \\
-[Continuous-Time Modeling of Zipfian Workload Locality.](https://doi.org/10.1145/3746450)\\
+**Yiyang Wang**, Chen Ding, Leo Sciortino, and Linlin Chen.
+[Continuous-Time Modeling of Zipfian Workload Locality.](https://doi.org/10.1145/3746450)
 _ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS)_, December 2025.
+
+
 
 
 Sound-Playing Stuff
