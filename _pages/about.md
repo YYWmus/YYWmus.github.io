@@ -15,14 +15,14 @@ Before I come to UR, I was a music composer working on algorithmic composition a
 
 
 Publications
-======
-**Yiyang Wang**, Chen Ding, Leo Sciortino, and Linlin Chen
-[Continuous-Time Modeling of Zipfian Workload Locality.](https://doi.org/10.1145/3746450)
-_ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS)_, 2025.
+============
+**Yiyang Wang**, Chen Ding, Leo Sciortino, and Linlin Chen. \\
+[Continuous-Time Modeling of Zipfian Workload Locality.](https://doi.org/10.1145/3746450)\\
+_ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS)_, December 2025.
 
 
 Sound-Playing Stuff
-======
+============
 [AI Jazz Co-improviser](https://jazz-improv-pilot.netlify.app/)
 Jamming with AI with your instrument of choice. Needs mic access on the web browser.
 
