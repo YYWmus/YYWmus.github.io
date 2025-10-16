@@ -9,17 +9,16 @@ description: "PhD student in Computer Science at the University of Rochester"
 #   - /about.html
 ---
 
-I am a PhD student in Computer Science (Systems group) at University of Rochester. My current research focuses are in-memory cache management, stochastic workload modeling, and locality in natual languages and large language models (LLMs).
+I am a PhD student in Computer Science (Systems group) at University of Rochester, advised by Prof. [Chen Ding](https://www.cs.rochester.edu/~cding/). My research focuses in-memory cache management, stochastic workload modeling, and locality in natual languages and large language models (LLMs).
 
-Before I come to UR, I was a music composer working on algorithmic composition and interactive sound arts. Some of my work can be found via links on this page. Prior to joining the systems group, I also did research in MIR (Music Information Retrieval) at [AIR Lab](https://labsites.rochester.edu/air/). 
+Before I come to UR, I was a music composer working on algorithmic composition and interactive sound arts. Some of my work can be found via links on this page. Prior to joining the Systems group, I also did research in MIR (Music Information Retrieval) at [AIR Lab](https://labsites.rochester.edu/air/). 
 
 
 Publications
 ======
-Continuous-Time 
-
-Please appreciate a picture of my lovely Eugene:)
-![Eugene](/images/Eugene.jpeg)    
+**Yiyang Wang**, Chen Ding, Leo Sciortino, and Linlin Chen
+[Continuous-Time Modeling of Zipfian Workload Locality.](https://doi.org/10.1145/3746450)
+_ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS)_, 2025.
 
 
 Sound-Playing Stuff
@@ -29,6 +28,15 @@ Jamming with AI with your instrument of choice. Needs mic access on the web brow
 
 [Mind Your Step](https://editor.p5js.org/yiywang/full/aNZiMTAhj)
 Group improvisation / sound installation with handphones (most interesting on smartphone and with a group of people playing together).
+
+
+
+
+
+And please appreciate a picture of Eugene :) (named after a Belgian virtuoso violinist, perhaps)
+![Eugene](/images/Eugene.jpeg)    
+
+
 
 <!-- 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
