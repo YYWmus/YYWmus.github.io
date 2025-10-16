@@ -9,10 +9,18 @@ description: "PhD student in Computer Science at the University of Rochester"
 #   - /about.html
 ---
 
-I am a PhD student in Computer Science at University of Rochester. Before I joined UR in 2022, I was a music composer with focuses on algorithmic composition and interactive sound arts. My previous research was in MIR (Music Information Retrieval) at [AIR Lab](https://labsites.rochester.edu/air/). I recently joined the Systems with interests in data locality and programming languages. 
+I am a PhD student in Computer Science (Systems group) at University of Rochester. My current research focuses are in-memory cache management, stochastic workload modeling, and locality in natual languages and large language models (LLMs).
+
+Before I come to UR, I was a music composer working on algorithmic composition and interactive sound arts. Some of my work can be found via links on this page. Prior to joining the systems group, I also did research in MIR (Music Information Retrieval) at [AIR Lab](https://labsites.rochester.edu/air/). 
+
+
+Publications
+======
+Continuous-Time 
 
 Please appreciate a picture of my lovely Eugene:)
 ![Eugene](/images/Eugene.jpeg)    
+
 
 Sound-Playing Stuff
 ======
