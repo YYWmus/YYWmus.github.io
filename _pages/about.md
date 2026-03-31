@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yiyang Wang"
+title: "Yiyang Wang (王易阳)" 
 # excerpt: "About me"
 author_profile: true
 description: "PhD student in Computer Science at the University of Rochester"
