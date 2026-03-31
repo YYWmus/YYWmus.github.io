@@ -13,7 +13,7 @@ I am a PhD student in Computer Science (Systems group) at University of Rocheste
 
 Before I come to UR, I was a music composer working on algorithmic composition and interactive sound arts. Some of my work can be found via links on this page. Prior to joining the Systems group, I also did research in MIR (Music Information Retrieval) at [AIR Lab](https://labsites.rochester.edu/air/). 
 
-
+CV: <a href="/files/CV_260331.pdf" target="_blank" rel="noopener noreferrer">View PDF</a>
 
 Publications
 ============
@@ -21,7 +21,7 @@ Publications
 [Continuous-Time Modeling of Zipfian Workload Locality.](https://doi.org/10.1145/3746450)
 _ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS)_, December 2025.
 
-
+**Yiyang Wang**, Chen Ding, and Hangfeng He. 2026. [Ranking Human and LLM Texts Using Locality Statistics.](https://doi.org/10.18653/v1/2026.findings-eacl.283) In Findings of the Association for Computational Linguistics: EACL 2026, pages 5337–5348, Rabat, Morocco. Association for Computational Linguistics.
 
 
 Sound-Playing Stuff
