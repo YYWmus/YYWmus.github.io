@@ -11,7 +11,7 @@ description: "PhD student in Computer Science at the University of Rochester"
 
 I am a PhD student in Computer Science (Systems group) at University of Rochester, advised by Prof. [Chen Ding](https://www.cs.rochester.edu/~cding/). My research focuses in-memory cache management, stochastic workload modeling, and locality in natual languages and large language models (LLMs).
 
-Before I come to UR, I was a music composer working on algorithmic composition and interactive sound arts. Some of my work can be found via links on this page. Prior to joining the Systems group, I also did research in MIR (Music Information Retrieval) at [AIR Lab](https://labsites.rochester.edu/air/). 
+Before I came to UR, I was a music composer working on algorithmic composition and interactive sound arts. Some of my works can be found via links on this page. Prior to joining the Systems group, I also did research in MIR (Music Information Retrieval) at [AIR Lab](https://labsites.rochester.edu/air/). 
 
 CV: <a href="/files/CV_260331.pdf" target="_blank" rel="noopener noreferrer">View PDF</a>
 
@@ -33,7 +33,7 @@ Jamming with AI with your instrument of choice. Needs mic access on the web brow
 Group improvisation / sound installation with handphones (most interesting on smartphone and with a group of people playing together).
 
 
-
+<br><br>
 
 
 And please appreciate a picture of Eugene (named after a Belgian virtuoso violinist, perhaps) \\
