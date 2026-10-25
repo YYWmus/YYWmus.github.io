@@ -9,11 +9,11 @@ description: "PhD student in Computer Science at the University of Rochester"
 #   - /about.html
 ---
 
-I am a PhD student in Computer Science (Systems group) at University of Rochester, advised by Prof. [Chen Ding](https://www.cs.rochester.edu/~cding/). My research focuses in-memory cache management, stochastic workload modeling, and locality in natual languages and large language models (LLMs).
+I am a PhD student in Computer Science (Systems group) at University of Rochester, advised by Prof. [Chen Ding](https://www.cs.rochester.edu/~cding/). My research focuses on cache management and workload modeling, GPU memory optimization, and locality in natural languages and large language model (LLM) systems.
 
 Before I came to UR, I was a music composer working on algorithmic composition and interactive sound arts. Some of my works can be found via links on this page. Prior to joining the Systems group, I also did research in MIR (Music Information Retrieval) at [AIR Lab](https://labsites.rochester.edu/air/). 
 
-CV: <a href="/files/CV_260331.pdf" target="_blank" rel="noopener noreferrer">View PDF</a>
+CV: <a href="/files/Yiyang_Wang_cv_10252026.pdf" target="_blank" rel="noopener noreferrer">View PDF</a>
 
 <br><br>
 
