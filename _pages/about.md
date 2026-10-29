@@ -13,7 +13,7 @@ I am a PhD student in Computer Science (Systems group) at University of Rocheste
 
 Before I came to UR, I was a music composer working on algorithmic composition and interactive sound arts. Some of my works can be found via links on this page. Prior to joining the Systems group, I also did research in MIR (Music Information Retrieval) at [AIR Lab](https://labsites.rochester.edu/air/). 
 
-CV: <a href="/files/Yiyang_Wang_cv_10252026.pdf" target="_blank" rel="noopener noreferrer">View PDF</a>
+CV: <a href="/files/Yiyang_Wang_cv_10292026.pdf" target="_blank" rel="noopener noreferrer">View PDF</a>
 
 <br><br>
 
